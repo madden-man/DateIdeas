@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="orange">#ffa500</color>
+    <color name="ColorPrimary">#ffd700</color>
+    <color name="gold">#ffff00</color>
+    <color name="lightgold">#ffff99</color>
+    <color name="black">#000000</color>
+    <color name="good">#ffffff</color>
+    <color name="adventurous">#00ff00</color>
+    <color name="serene">#66ffff</color>
+    <color name="anxious">#ff9933</color>
+    <color name="social">#33ccff</color>
+    <color name="spontaneous">#ffff99</color>
+    <color name="daring">#ff0000</color>
+    <color name="frustrated">#99cc00</color>
+    <color name="inspired">#ff33ff</color>
+    <color name="playful">#33ffff</color>
+    <color name="productive">#cc66ff</color>
+    <color name="restless">#ffcc00</color>
+</resources>
